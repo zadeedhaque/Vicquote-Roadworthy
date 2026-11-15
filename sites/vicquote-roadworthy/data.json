@@ -1,0 +1,158 @@
+{
+  "business_name": {
+    "value": "Vicquote Roadworthy",
+    "alternate_names": [
+      {
+        "value": "Vicquote Fitzroy",
+        "source_url": "https://calso.com.au/directory/vic/melbourne/mechanics/vicquote-fitzroy-fitzroy-5cf8e3e"
+      },
+      {
+        "value": "Vicquote Roadworthy Testing & Repairs",
+        "source_url": "https://www.yellowpages.com.au/fitzroy-vic/bpp/vicquote-roadworthy-testing-repairs-580360321"
+      },
+      {
+        "value": "VicQuote Roadworthy Centre",
+        "source_url": "https://transport.vic.gov.au/road-and-active-transport/registration-and-licensing/registration/roadworthy-certification/roadworthy-tester-locations"
+      }
+    ],
+    "source_url": "https://www.ourcommunitydirectory.com.au/business/vicquote-roadworthy-fitzroy-vic-3065/"
+  },
+  "category": {
+    "value": "Auto RWC & Mechanical Repairs / Car repair and maintenance service",
+    "source_url": "https://calso.com.au/directory/vic/melbourne/mechanics/vicquote-fitzroy-fitzroy-5cf8e3e"
+  },
+  "vicroads_licence_number": {
+    "value": "4727",
+    "source_url": "https://melbrwc.com.au/add-location/"
+  },
+  "status": {
+    "value": "Operating",
+    "source_url": "https://calso.com.au/directory/vic/melbourne/mechanics/vicquote-fitzroy-fitzroy-5cf8e3e"
+  },
+  "address": {
+    "value": "67 Johnston St, Fitzroy VIC 3065",
+    "coordinates": {
+      "lat": -37.797933,
+      "lng": 144.97705,
+      "source_url": "http://fitzroy-vic.auto-australia.com/vicquote-roadworthy-centre/"
+    },
+    "source_url": "https://www.google.com/maps/search/?api=1&query=Vicquote+Roadworthy+67+Johnston+Street+Fitzroy+VIC+3065"
+  },
+  "phone": {
+    "primary": {
+      "value": "(03) 9419 4601",
+      "source_url": "https://melbrwc.com.au/add-location/"
+    },
+    "secondary": {
+      "value": "(03) 9419 8201",
+      "source_url": "https://calso.com.au/directory/vic/melbourne/mechanics/vicquote-fitzroy-fitzroy-5cf8e3e"
+    },
+    "mobile": {
+      "value": "0407 529 602",
+      "source_url": "https://www.bluebusinessguide.com.au/browse/brake-and-clutch-services-including-mobile/fitzroy/vicquote-roadworthy-testing--repairs?searched_suburb=Fitzroy"
+    }
+  },
+  "google_maps": {
+    "search_url": "https://www.google.com/maps/search/?api=1&query=Vicquote+Roadworthy+67+Johnston+Street+Fitzroy+VIC+3065",
+    "place_id_url": "https://www.google.com/maps/search/?api=1&query=Vicquote%20Fitzroy&query_place_id=ChIJARI0TidD1moRJPSEuNtCkVw",
+    "source_url": "https://calso.com.au/directory/vic/melbourne/mechanics/vicquote-fitzroy-fitzroy-5cf8e3e"
+  },
+  "opening_hours": {
+    "monday": {
+      "value": "9:00 am to 5:00 pm",
+      "source_url": "https://calso.com.au/directory/vic/melbourne/mechanics/vicquote-fitzroy-fitzroy-5cf8e3e"
+    },
+    "tuesday": {
+      "value": "9:00 am to 5:00 pm",
+      "source_url": "https://calso.com.au/directory/vic/melbourne/mechanics/vicquote-fitzroy-fitzroy-5cf8e3e"
+    },
+    "wednesday": {
+      "value": "Closed",
+      "source_url": "https://calso.com.au/directory/vic/melbourne/mechanics/vicquote-fitzroy-fitzroy-5cf8e3e"
+    },
+    "thursday": {
+      "value": "9:00 am to 5:00 pm",
+      "source_url": "https://calso.com.au/directory/vic/melbourne/mechanics/vicquote-fitzroy-fitzroy-5cf8e3e"
+    },
+    "friday": {
+      "value": "9:00 am to 5:00 pm",
+      "source_url": "https://calso.com.au/directory/vic/melbourne/mechanics/vicquote-fitzroy-fitzroy-5cf8e3e"
+    },
+    "saturday": {
+      "value": "Closed",
+      "source_url": "https://calso.com.au/directory/vic/melbourne/mechanics/vicquote-fitzroy-fitzroy-5cf8e3e"
+    },
+    "sunday": {
+      "value": "Closed",
+      "source_url": "https://calso.com.au/directory/vic/melbourne/mechanics/vicquote-fitzroy-fitzroy-5cf8e3e"
+    }
+  },
+  "services": [
+    {
+      "name": "Light Vehicle Roadworthy Certificates (LV)",
+      "description": "Licensed roadworthy inspections for cars and light vehicles up to 4.5 tonnes GVM.",
+      "source_url": "https://melbrwc.com.au/add-location/"
+    },
+    {
+      "name": "Heavy Vehicle & Taxi Roadworthies (HV, TX)",
+      "description": "Authorised roadworthy testing for heavy vehicles over 4.5 tonnes GVM and commercial taxis.",
+      "source_url": "https://melbrwc.com.au/add-location/"
+    },
+    {
+      "name": "Motorcycle Roadworthy Inspections (MC)",
+      "description": "Roadworthy inspections and certificates for motorcycles and scooters.",
+      "source_url": "https://transport.vic.gov.au/road-and-active-transport/registration-and-licensing/registration/roadworthy-certification/roadworthy-tester-locations"
+    },
+    {
+      "name": "LPG, Electric & Hybrid Vehicle Testing",
+      "description": "Authorised roadworthy certification for LPG-fitted, electric, and hybrid vehicles.",
+      "source_url": "https://transport.vic.gov.au/road-and-active-transport/registration-and-licensing/registration/roadworthy-certification/roadworthy-tester-locations"
+    },
+    {
+      "name": "Brake & Clutch Services",
+      "description": "Brake and clutch repairs and component replacements.",
+      "source_url": "https://www.bluebusinessguide.com.au/browse/brake-and-clutch-services-including-mobile/fitzroy/vicquote-roadworthy-testing--repairs?searched_suburb=Fitzroy"
+    },
+    {
+      "name": "Mechanical Repairs & Servicing",
+      "description": "General car and motorcycle mechanical repairs and routine maintenance.",
+      "source_url": "https://calso.com.au/directory/vic/melbourne/mechanics/vicquote-fitzroy-fitzroy-5cf8e3e"
+    }
+  ],
+  "rating_and_reviews": {
+    "google_rating": {
+      "value": 3.9,
+      "scale": 5.0,
+      "source_url": "https://calso.com.au/directory/vic/melbourne/mechanics/vicquote-fitzroy-fitzroy-5cf8e3e"
+    },
+    "google_review_count": {
+      "value": 25,
+      "as_of": "October 2026",
+      "source_url": "https://calso.com.au/directory/vic/melbourne/mechanics/vicquote-fitzroy-fitzroy-5cf8e3e"
+    },
+    "display_on_site": false,
+    "display_omission_reason": "Rating is 3.9 out of 5.0, which is below the 4.0 minimum threshold required to display the reviews section.",
+    "verbatim_positive_reviews_found": [
+      {
+        "reviewer_first_name": "Don",
+        "reviewer_display_name": "Don T.",
+        "quote": "Unfortunatrly normally only negative reviews are added, people with bositive experience do not bother. For some equilibrium my experience was very positive (may be becase my car was properly serviced, did not have worn tyres etc.). Service was prompt, profesional, conversations curtious and I receved 10% discount on originally quoted price.",
+        "source_url": "https://www.yellowpages.com.au/fitzroy-vic/bpp/vicquote-roadworthy-testing-repairs-580360321"
+      },
+      {
+        "reviewer_first_name": "Henrik",
+        "reviewer_display_name": "Henrik",
+        "quote": "Bruce was great and extremely helpful, could not fault the whole e perience.",
+        "source_url": "https://www.cylex-australia.com/company/vicquote-roadworthy-testing---repairs-18366211.html"
+      }
+    ]
+  },
+  "unverified_or_missing_fields": [
+    "Parking attributes (not listed on Google Maps or directory profiles)",
+    "Wheelchair accessibility attributes (not listed on Google Maps or directory profiles)",
+    "Accepted payment types (not listed on Google Maps or directory profiles)",
+    "Appointment vs. walk-in policy (not listed on Google Maps or directory profiles)",
+    "Years in operation / year established (not stated on listing or in reviews)",
+    "Additional 4+ star verbatim reviews (only 2 positive verbatim reviews by Don and Henrik are publicly indexed; individual Google Maps review texts are not publicly indexed, and the Reviews section is omitted because the overall Google rating is 3.9)"
+  ]
+}
