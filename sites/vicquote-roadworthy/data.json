@@ -131,7 +131,6 @@
       "source_url": "https://calso.com.au/directory/vic/melbourne/mechanics/vicquote-fitzroy-fitzroy-5cf8e3e"
     },
     "display_on_site": false,
-    "display_omission_reason": "Rating is 3.9 out of 5.0, which is below the 4.0 minimum threshold required to display the reviews section.",
     "verbatim_positive_reviews_found": [
       {
         "reviewer_first_name": "Don",
@@ -153,6 +152,6 @@
     "Accepted payment types (not listed on Google Maps or directory profiles)",
     "Appointment vs. walk-in policy (not listed on Google Maps or directory profiles)",
     "Years in operation / year established (not stated on listing or in reviews)",
-    "Additional 4+ star verbatim reviews (only 2 positive verbatim reviews by Don and Henrik are publicly indexed; individual Google Maps review texts are not publicly indexed, and the Reviews section is omitted because the overall Google rating is 3.9)"
+    "Additional 4+ star verbatim reviews (only 2 positive verbatim reviews by Don and Henrik are publicly indexed; individual Google Maps review texts are not publicly indexed)"
   ]
 }
